@@ -1,0 +1,301 @@
+tweetId,strategyId,annotationId,fluency,informativeness,persuasiveness,soundness,hatefulness,hateLabel,consistentHateLabel
+1,3,2,5,4,5,3,5,non-hateful,non-hateful
+1,3,3,4,2,2,1,2,non-hateful,non-hateful
+1,3,1,5,4,3,3,2,non-hateful,non-hateful
+2,3,1,1,3,3,3,4,hateful,hateful
+2,3,2,3,2,3,3,4,hateful,hateful
+2,3,3,1,3,2,3,1,hateful,hateful
+3,3,3,4,3,3,3,2,non-hateful,consistent non-hateful
+3,3,2,5,5,5,5,1,non-hateful,consistent non-hateful
+3,3,1,1,5,5,5,1,non-hateful,consistent non-hateful
+4,3,1,5,5,4,5,5,non-hateful,non-hateful
+4,3,2,4,3,5,4,1,non-hateful,non-hateful
+4,3,3,3,3,3,3,2,non-hateful,non-hateful
+5,3,2,3,3,3,3,3,non-hateful,non-hateful
+5,3,1,3,3,3,3,2,non-hateful,non-hateful
+5,3,3,3,3,2,3,1,non-hateful,non-hateful
+6,3,2,5,3,5,3,4,hateful,hateful
+6,3,3,5,5,5,5,1,hateful,hateful
+6,3,1,4,4,3,3,4,hateful,hateful
+7,3,1,3,3,4,3,4,hateful,hateful
+7,3,2,4,3,2,3,3,hateful,hateful
+7,3,3,4,5,5,4,5,hateful,hateful
+8,3,2,1,2,1,1,4,hateful,hateful
+8,3,3,5,4,5,4,1,hateful,hateful
+8,3,1,5,5,5,5,5,hateful,hateful
+9,3,1,5,3,5,5,5,hateful,hateful
+9,3,3,5,5,5,5,3,hateful,hateful
+9,3,2,1,1,1,1,4,hateful,hateful
+10,3,2,4,1,3,1,4,neither,neither
+10,3,1,1,5,5,5,1,neither,neither
+10,3,3,2,3,2,1,3,neither,neither
+11,3,1,3,3,3,4,1,non-hateful,non-hateful
+11,3,2,3,2,2,3,2,non-hateful,non-hateful
+11,3,3,4,4,5,4,4,non-hateful,non-hateful
+12,3,1,3,5,2,1,5,non-hateful,non-hateful
+12,3,2,5,3,3,4,1,non-hateful,non-hateful
+12,3,3,1,5,3,3,2,non-hateful,non-hateful
+13,3,2,3,2,4,3,4,neither,neither
+13,3,3,1,1,1,1,3,neither,neither
+13,3,1,5,3,3,4,1,neither,neither
+14,3,1,5,4,3,2,1,non-hateful,non-hateful
+14,3,2,2,4,3,3,2,non-hateful,non-hateful
+14,3,3,4,3,4,3,4,non-hateful,non-hateful
+15,3,3,3,3,3,3,2,non-hateful,non-hateful
+15,3,1,1,1,1,1,2,non-hateful,non-hateful
+15,3,2,1,2,1,2,3,non-hateful,non-hateful
+16,3,3,5,5,4,5,1,non-hateful,consistent non-hateful
+16,3,2,2,2,1,1,1,non-hateful,consistent non-hateful
+16,3,1,2,1,2,1,1,non-hateful,consistent non-hateful
+17,3,1,2,2,3,2,2,non-hateful,non-hateful
+17,3,3,5,5,3,5,1,non-hateful,non-hateful
+17,3,2,1,3,1,3,3,non-hateful,non-hateful
+18,3,1,5,4,4,5,4,hateful,hateful
+18,3,2,3,3,4,3,4,hateful,hateful
+18,3,3,4,4,4,5,1,hateful,hateful
+19,3,1,5,4,4,4,2,neither,neither
+19,3,2,3,4,5,3,3,neither,neither
+19,3,3,2,3,4,3,4,neither,neither
+20,3,2,4,4,4,5,1,non-hateful,non-hateful
+20,3,3,4,5,4,4,2,non-hateful,non-hateful
+20,3,1,2,1,4,2,5,non-hateful,non-hateful
+21,3,1,5,4,5,5,1,non-hateful,consistent non-hateful
+21,3,2,5,5,5,5,1,non-hateful,consistent non-hateful
+21,3,3,5,5,5,5,1,non-hateful,consistent non-hateful
+22,3,1,1,1,1,1,1,non-hateful,non-hateful
+22,3,3,4,3,3,4,1,non-hateful,non-hateful
+22,3,2,3,4,3,3,4,non-hateful,non-hateful
+23,3,1,4,3,4,3,5,hateful,hateful
+23,3,2,3,3,2,2,4,hateful,hateful
+23,3,3,4,4,5,4,3,hateful,hateful
+24,3,1,5,3,4,5,1,non-hateful,consistent non-hateful
+24,3,2,5,5,5,5,1,non-hateful,consistent non-hateful
+24,3,3,4,4,4,4,1,non-hateful,consistent non-hateful
+25,3,3,2,4,3,5,1,non-hateful,consistent non-hateful
+25,3,1,5,5,1,5,1,non-hateful,consistent non-hateful
+25,3,2,2,1,2,1,1,non-hateful,consistent non-hateful
+26,3,1,4,4,5,4,1,non-hateful,non-hateful
+26,3,3,4,3,2,2,5,non-hateful,non-hateful
+26,3,2,1,1,1,1,2,non-hateful,non-hateful
+27,3,1,4,5,4,5,2,neither,neither
+27,3,2,5,2,1,1,5,neither,neither
+27,3,3,2,1,1,5,3,neither,neither
+28,3,2,3,3,3,3,4,hateful,consistent hateful
+28,3,3,3,3,2,2,4,hateful,consistent hateful
+28,3,1,1,2,1,1,5,hateful,consistent hateful
+29,3,2,3,1,1,1,4,hateful,hateful
+29,3,3,3,4,3,5,2,hateful,hateful
+29,3,1,5,4,2,1,5,hateful,hateful
+30,3,3,3,4,3,4,1,neither,neither
+30,3,2,2,3,2,3,4,neither,neither
+30,3,1,3,2,2,3,3,neither,neither
+31,3,3,5,1,3,3,5,hateful,consistent hateful
+31,3,2,3,2,1,1,4,hateful,consistent hateful
+31,3,1,2,2,1,2,4,hateful,consistent hateful
+32,3,1,4,5,4,5,2,non-hateful,non-hateful
+32,3,2,1,1,1,1,1,non-hateful,non-hateful
+32,3,3,4,3,1,1,5,non-hateful,non-hateful
+33,3,2,5,5,4,4,5,non-hateful,non-hateful
+33,3,3,4,4,2,4,1,non-hateful,non-hateful
+33,3,1,1,1,1,1,1,non-hateful,non-hateful
+34,3,2,4,4,3,2,2,neither,neither
+34,3,3,3,4,4,5,4,neither,neither
+34,3,1,1,1,1,3,3,neither,neither
+35,3,1,4,2,4,3,4,non-hateful,non-hateful
+35,3,2,4,5,3,4,1,non-hateful,non-hateful
+35,3,3,4,4,4,4,1,non-hateful,non-hateful
+36,3,1,4,4,5,4,1,hateful,hateful
+36,3,2,4,5,5,4,4,hateful,hateful
+36,3,3,4,4,4,4,4,hateful,hateful
+37,3,1,1,1,1,1,5,neither,neither
+37,3,2,2,4,4,4,2,neither,neither
+37,3,3,4,4,3,4,3,neither,neither
+38,3,1,3,4,3,2,3,neither,neither
+38,3,3,4,5,4,4,1,neither,neither
+38,3,2,4,4,3,3,4,neither,neither
+39,3,1,5,4,4,4,2,non-hateful,consistent non-hateful
+39,3,2,5,5,3,3,1,non-hateful,consistent non-hateful
+39,3,3,2,1,3,5,1,non-hateful,consistent non-hateful
+40,3,2,2,4,2,3,3,neither,neither
+40,3,1,2,4,3,2,2,neither,neither
+40,3,3,4,1,2,2,3,neither,neither
+41,3,1,3,3,2,4,4,hateful,hateful
+41,3,2,3,4,3,3,5,hateful,hateful
+41,3,3,3,4,5,4,2,hateful,hateful
+42,3,3,5,5,4,4,1,hateful,hateful
+42,3,1,5,3,3,4,4,hateful,hateful
+42,3,2,5,2,3,4,5,hateful,hateful
+43,3,1,1,1,1,1,4,hateful,hateful
+43,3,2,5,1,1,1,4,hateful,hateful
+43,3,3,2,3,3,4,3,hateful,hateful
+44,3,1,3,3,4,3,4,neither,neither
+44,3,2,4,3,4,3,3,neither,neither
+44,3,3,2,3,3,2,3,neither,neither
+45,3,2,4,4,4,4,2,non-hateful,consistent non-hateful
+45,3,3,5,5,5,3,2,non-hateful,consistent non-hateful
+45,3,1,4,4,3,5,2,non-hateful,consistent non-hateful
+46,3,1,1,2,1,1,1,neither,neither
+46,3,3,4,4,3,2,3,neither,neither
+46,3,2,2,4,2,4,3,neither,neither
+47,3,1,3,3,3,3,5,non-hateful,non-hateful
+47,3,2,4,4,3,4,2,non-hateful,non-hateful
+47,3,3,5,4,3,4,1,non-hateful,non-hateful
+48,3,2,5,5,5,5,1,non-hateful,non-hateful
+48,3,3,4,2,4,1,4,non-hateful,non-hateful
+48,3,1,5,5,5,5,2,non-hateful,non-hateful
+49,3,3,1,1,1,3,1,non-hateful,non-hateful
+49,3,1,2,2,1,4,1,non-hateful,non-hateful
+49,3,2,3,3,3,2,5,non-hateful,non-hateful
+50,3,1,5,1,1,1,4,hateful,consistent hateful
+50,3,2,1,1,1,1,5,hateful,consistent hateful
+50,3,3,1,1,1,1,5,hateful,consistent hateful
+51,3,1,3,2,3,1,2,hateful,hateful
+51,3,2,5,3,3,4,4,hateful,hateful
+51,3,3,1,2,1,1,4,hateful,hateful
+52,3,2,3,4,2,3,3,non-hateful,non-hateful
+52,3,3,3,3,4,4,1,non-hateful,non-hateful
+52,3,1,4,4,4,3,2,non-hateful,non-hateful
+53,3,1,1,1,1,1,1,non-hateful,non-hateful
+53,3,3,1,1,5,3,2,non-hateful,non-hateful
+53,3,2,4,4,4,4,3,non-hateful,non-hateful
+54,3,1,1,1,1,1,5,hateful,consistent hateful
+54,3,2,1,1,1,2,5,hateful,consistent hateful
+54,3,3,3,1,1,1,4,hateful,consistent hateful
+55,3,1,1,1,3,1,4,hateful,consistent hateful
+55,3,2,1,1,1,1,4,hateful,consistent hateful
+55,3,3,4,3,1,2,4,hateful,consistent hateful
+56,3,1,5,5,3,4,2,hateful,hateful
+56,3,3,2,2,1,1,4,hateful,hateful
+56,3,2,5,1,3,1,5,hateful,hateful
+57,3,1,3,1,1,1,5,hateful,consistent hateful
+57,3,2,2,2,3,3,5,hateful,consistent hateful
+57,3,3,1,1,1,1,5,hateful,consistent hateful
+58,3,3,4,3,3,1,4,hateful,consistent hateful
+58,3,2,3,4,4,2,4,hateful,consistent hateful
+58,3,1,5,1,1,1,5,hateful,consistent hateful
+59,3,1,1,1,2,1,4,non-hateful,non-hateful
+59,3,2,1,4,4,2,2,non-hateful,non-hateful
+59,3,3,1,3,2,2,2,non-hateful,non-hateful
+60,3,1,3,2,4,3,5,neither,neither
+60,3,3,3,3,4,2,3,neither,neither
+60,3,2,5,5,4,5,2,neither,neither
+61,3,1,5,1,4,4,2,non-hateful,non-hateful
+61,3,2,4,4,4,4,2,non-hateful,non-hateful
+61,3,3,5,5,4,3,4,non-hateful,non-hateful
+62,3,1,2,3,3,3,2,non-hateful,non-hateful
+62,3,3,4,3,3,4,3,non-hateful,non-hateful
+62,3,2,5,2,1,2,1,non-hateful,non-hateful
+63,3,2,1,2,2,2,2,hateful,hateful
+63,3,3,4,5,5,5,4,hateful,hateful
+63,3,1,5,3,2,1,4,hateful,hateful
+64,3,1,4,4,4,4,1,non-hateful,non-hateful
+64,3,2,5,4,5,5,1,non-hateful,non-hateful
+64,3,3,3,2,3,2,5,non-hateful,non-hateful
+65,3,2,5,4,1,1,4,hateful,hateful
+65,3,3,2,1,1,1,5,hateful,hateful
+65,3,1,2,1,2,1,2,hateful,hateful
+66,3,1,3,1,1,1,5,hateful,hateful
+66,3,3,1,1,1,3,5,hateful,hateful
+66,3,2,3,3,1,1,2,hateful,hateful
+67,3,2,2,1,1,1,5,hateful,hateful
+67,3,1,1,1,1,1,2,hateful,hateful
+67,3,3,2,1,1,1,5,hateful,hateful
+68,3,2,5,5,5,5,2,non-hateful,consistent non-hateful
+68,3,3,5,5,5,5,1,non-hateful,consistent non-hateful
+68,3,1,1,2,1,3,1,non-hateful,consistent non-hateful
+69,3,1,5,4,4,5,5,hateful,hateful
+69,3,3,4,3,2,2,3,hateful,hateful
+69,3,2,2,1,1,2,5,hateful,hateful
+70,3,1,4,3,3,3,3,neither,neither
+70,3,2,1,1,1,1,3,neither,neither
+70,3,3,5,5,5,4,2,neither,neither
+71,3,1,4,3,1,2,4,hateful,hateful
+71,3,2,2,4,3,3,4,hateful,hateful
+71,3,3,2,4,3,2,3,hateful,hateful
+72,3,1,1,1,1,1,5,hateful,hateful
+72,3,2,1,3,1,1,4,hateful,hateful
+72,3,3,5,5,2,5,1,hateful,hateful
+73,3,1,4,5,4,5,1,neither,neither
+73,3,2,1,5,2,3,3,neither,neither
+73,3,3,2,1,1,1,4,neither,neither
+74,3,1,3,2,1,1,3,neither,neither
+74,3,3,5,2,2,2,4,neither,neither
+74,3,2,5,4,4,5,1,neither,neither
+75,3,2,5,3,1,1,5,hateful,hateful
+75,3,1,3,2,1,2,4,hateful,hateful
+75,3,3,5,3,3,4,1,hateful,hateful
+76,3,1,4,3,1,1,5,hateful,consistent hateful
+76,3,2,1,1,1,1,5,hateful,consistent hateful
+76,3,3,1,1,1,1,5,hateful,consistent hateful
+77,3,1,2,3,1,1,5,hateful,consistent hateful
+77,3,3,4,1,3,1,5,hateful,consistent hateful
+77,3,2,2,4,5,4,5,hateful,consistent hateful
+78,3,1,1,3,1,1,5,hateful,hateful
+78,3,2,3,1,1,1,5,hateful,hateful
+78,3,3,3,5,2,2,3,hateful,hateful
+79,3,2,4,3,4,5,2,neither,neither
+79,3,3,5,3,4,3,3,neither,neither
+79,3,1,2,2,1,1,5,neither,neither
+80,3,1,3,1,1,1,5,neither,neither
+80,3,2,5,4,5,5,3,neither,neither
+80,3,3,3,3,2,2,2,neither,neither
+81,3,2,4,2,3,4,3,non-hateful,non-hateful
+81,3,1,4,5,1,4,1,non-hateful,non-hateful
+81,3,3,4,3,3,2,2,non-hateful,non-hateful
+82,3,1,1,1,1,1,5,hateful,consistent hateful
+82,3,2,3,2,1,4,5,hateful,consistent hateful
+82,3,3,4,2,1,1,5,hateful,consistent hateful
+83,3,1,4,4,1,1,5,hateful,consistent hateful
+83,3,2,4,2,1,2,4,hateful,consistent hateful
+83,3,3,1,1,2,1,5,hateful,consistent hateful
+84,3,3,3,3,4,4,4,hateful,consistent hateful
+84,3,2,2,1,2,2,5,hateful,consistent hateful
+84,3,1,3,1,1,1,5,hateful,consistent hateful
+85,3,1,4,3,1,1,4,neither,neither
+85,3,3,2,3,2,2,3,neither,neither
+85,3,2,3,2,2,1,1,neither,neither
+86,3,1,5,2,1,1,5,non-hateful,non-hateful
+86,3,2,5,3,3,3,2,non-hateful,non-hateful
+86,3,3,1,1,1,1,1,non-hateful,non-hateful
+87,3,1,3,3,4,4,5,hateful,hateful
+87,3,2,3,3,2,2,2,hateful,hateful
+87,3,3,3,2,1,1,4,hateful,hateful
+88,3,1,1,1,1,1,4,hateful,hateful
+88,3,2,4,3,3,3,3,hateful,hateful
+88,3,3,4,3,2,1,5,hateful,hateful
+89,3,3,1,2,2,1,5,hateful,hateful
+89,3,1,4,2,1,1,5,hateful,hateful
+89,3,2,2,2,1,4,2,hateful,hateful
+90,3,1,3,2,1,1,5,hateful,consistent hateful
+90,3,2,1,1,1,5,5,hateful,consistent hateful
+90,3,3,5,2,1,1,5,hateful,consistent hateful
+91,3,1,3,2,1,1,5,hateful,hateful
+91,3,2,4,4,2,2,3,hateful,hateful
+91,3,3,4,2,4,1,5,hateful,hateful
+92,3,2,4,2,3,4,5,hateful,consistent hateful
+92,3,1,2,2,3,3,5,hateful,consistent hateful
+92,3,3,1,1,1,1,4,hateful,consistent hateful
+93,3,1,5,4,4,5,1,hateful,hateful
+93,3,3,1,1,1,1,5,hateful,hateful
+93,3,2,1,2,2,1,4,hateful,hateful
+94,3,1,5,5,5,5,1,neither,neither
+94,3,2,4,5,4,3,4,neither,neither
+94,3,3,4,3,3,3,3,neither,neither
+95,3,1,3,1,1,1,5,hateful,consistent hateful
+95,3,3,4,2,1,2,5,hateful,consistent hateful
+95,3,2,5,4,1,2,4,hateful,consistent hateful
+96,3,1,2,3,3,2,4,hateful,hateful
+96,3,2,2,3,1,2,2,hateful,hateful
+96,3,3,2,5,5,5,4,hateful,hateful
+97,3,1,2,1,1,1,5,hateful,consistent hateful
+97,3,2,4,5,3,3,5,hateful,consistent hateful
+97,3,3,5,5,5,5,4,hateful,consistent hateful
+98,3,3,4,4,5,4,4,hateful,consistent hateful
+98,3,2,2,5,5,5,4,hateful,consistent hateful
+98,3,1,5,2,2,2,5,hateful,consistent hateful
+99,3,3,5,1,3,1,5,hateful,hateful
+99,3,2,1,2,4,4,5,hateful,hateful
+99,3,1,2,3,3,3,1,hateful,hateful
+100,3,1,3,5,5,5,1,non-hateful,non-hateful
+100,3,3,2,1,2,3,1,non-hateful,non-hateful
+100,3,2,3,1,1,1,5,non-hateful,non-hateful

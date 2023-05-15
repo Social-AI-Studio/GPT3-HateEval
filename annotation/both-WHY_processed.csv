@@ -1,0 +1,301 @@
+tweetId,strategyId,annotationId,fluency,informativeness,persuasiveness,soundness,hatefulness,hateLabel,consistentHateLabel
+1,6,2,4.5,3.5,2.5,3.0,4,hateful,hateful
+1,6,1,4.0,5.0,5.0,5.0,3,hateful,hateful
+1,6,3,5.0,5.0,3.0,1.0,5,hateful,hateful
+2,6,3,3.5,3.0,3.0,3.0,5,hateful,hateful
+2,6,1,5.0,2.0,3.5,3.0,1,hateful,hateful
+2,6,2,5.0,4.5,2.5,5.0,5,hateful,hateful
+3,6,3,5.0,3.0,3.0,3.0,1,hateful,hateful
+3,6,1,5.0,5.0,4.5,4.5,4,hateful,hateful
+3,6,2,5.0,3.5,3.5,4.0,4,hateful,hateful
+4,6,1,3.5,3.0,2.5,2.5,4,non-hateful,non-hateful
+4,6,3,3.5,3.5,2.5,2.5,2,non-hateful,non-hateful
+4,6,2,5.0,2.0,4.5,3.0,1,non-hateful,non-hateful
+5,6,3,2.5,2.5,2.5,3.0,4,hateful,hateful
+5,6,2,4.5,4.0,4.0,4.0,2,hateful,hateful
+5,6,1,2.5,3.5,3.0,3.0,5,hateful,hateful
+6,6,3,4.5,2.5,3.0,3.0,1,non-hateful,non-hateful
+6,6,2,4.0,2.5,2.5,3.0,1,non-hateful,non-hateful
+6,6,1,3.5,4.0,4.5,4.0,3,non-hateful,non-hateful
+7,6,2,4.5,2.0,3.0,3.5,1,non-hateful,non-hateful
+7,6,3,4.0,4.0,3.0,3.0,1,non-hateful,non-hateful
+7,6,1,3.5,4.5,4.5,4.0,4,non-hateful,non-hateful
+8,6,3,5.0,4.0,3.0,3.0,4,hateful,hateful
+8,6,2,3.0,3.5,3.5,2.5,4,hateful,hateful
+8,6,1,5.0,3.5,3.0,3.0,2,hateful,hateful
+9,6,2,5.0,3.0,3.0,3.0,5,hateful,hateful
+9,6,1,5.0,4.5,4.0,4.5,4,hateful,hateful
+9,6,3,4.5,4.5,4.0,4.5,3,hateful,hateful
+10,6,2,2.5,3.5,2.5,2.5,3,hateful,hateful
+10,6,1,2.5,2.5,3.0,2.5,5,hateful,hateful
+10,6,3,4.0,1.5,1.5,2.0,4,hateful,hateful
+11,6,3,4.5,4.5,4.5,4.5,4,non-hateful,non-hateful
+11,6,1,5.0,5.0,5.0,5.0,1,non-hateful,non-hateful
+11,6,2,4.0,4.0,4.0,4.0,1,non-hateful,non-hateful
+12,6,1,5.0,5.0,5.0,5.0,5,neither,neither
+12,6,2,3.0,3.0,3.0,2.5,3,neither,neither
+12,6,3,4.0,5.0,5.0,5.0,1,neither,neither
+13,6,1,1.0,1.0,1.0,1.5,3,neither,neither
+13,6,2,3.5,3.5,3.0,1.0,3,neither,neither
+13,6,3,5.0,4.0,4.0,1.0,5,neither,neither
+14,6,2,5.0,4.5,3.5,3.0,4,hateful,hateful
+14,6,1,5.0,2.5,3.5,3.5,2,hateful,hateful
+14,6,3,4.0,3.0,3.0,3.5,5,hateful,hateful
+15,6,1,3.5,4.0,3.5,4.0,4,hateful,consistent hateful
+15,6,3,4.0,2.5,3.0,3.0,5,hateful,consistent hateful
+15,6,2,3.0,3.0,3.0,3.5,4,hateful,consistent hateful
+16,6,3,4.5,1.0,2.0,2.5,2,non-hateful,consistent non-hateful
+16,6,2,4.5,4.0,3.0,3.0,1,non-hateful,consistent non-hateful
+16,6,1,3.5,1.0,2.0,2.0,1,non-hateful,consistent non-hateful
+17,6,3,2.5,3.5,3.0,3.0,1,non-hateful,consistent non-hateful
+17,6,1,5.0,1.0,3.0,3.0,1,non-hateful,consistent non-hateful
+17,6,2,5.0,2.5,3.0,2.5,1,non-hateful,consistent non-hateful
+18,6,3,4.5,4.5,3.0,3.0,4,hateful,hateful
+18,6,2,5.0,3.0,3.0,3.0,3,hateful,hateful
+18,6,1,2.5,3.5,2.5,3.5,4,hateful,hateful
+19,6,1,3.0,3.0,3.0,3.0,3,neither,neither
+19,6,3,3.0,3.0,2.5,3.0,3,neither,neither
+19,6,2,5.0,4.5,3.0,3.0,1,neither,neither
+20,6,2,5.0,4.0,4.0,4.5,1,non-hateful,consistent non-hateful
+20,6,1,4.0,3.0,3.0,3.0,1,non-hateful,consistent non-hateful
+20,6,3,4.0,3.5,3.0,4.0,1,non-hateful,consistent non-hateful
+21,6,2,5.0,5.0,3.5,3.5,1,non-hateful,non-hateful
+21,6,1,5.0,2.5,2.0,2.5,1,non-hateful,non-hateful
+21,6,3,3.5,3.0,3.5,1.0,3,non-hateful,non-hateful
+22,6,3,3.5,3.5,3.5,4.0,2,non-hateful,non-hateful
+22,6,2,1.5,1.0,1.5,2.0,1,non-hateful,non-hateful
+22,6,1,3.5,4.0,4.0,2.0,4,non-hateful,non-hateful
+23,6,1,4.5,4.5,3.0,2.5,2,non-hateful,non-hateful
+23,6,3,4.0,3.5,3.5,3.5,1,non-hateful,non-hateful
+23,6,2,5.0,3.0,4.0,5.0,4,non-hateful,non-hateful
+24,6,1,4.0,2.0,1.5,1.5,1,non-hateful,non-hateful
+24,6,2,5.0,5.0,2.0,2.0,1,non-hateful,non-hateful
+24,6,3,2.0,2.0,2.0,2.5,4,non-hateful,non-hateful
+25,6,2,5.0,3.5,4.5,3.0,1,non-hateful,non-hateful
+25,6,1,4.5,4.5,5.0,1.0,5,non-hateful,non-hateful
+25,6,3,3.5,3.0,3.0,3.0,1,non-hateful,non-hateful
+26,6,2,5.0,4.0,3.5,3.5,4,neither,neither
+26,6,3,5.0,3.0,2.0,3.0,2,neither,neither
+26,6,1,3.0,3.5,4.0,3.5,3,neither,neither
+27,6,2,3.0,2.0,1.5,1.5,5,hateful,consistent hateful
+27,6,3,3.0,3.5,3.5,3.0,5,hateful,consistent hateful
+27,6,1,4.0,3.5,4.0,4.0,5,hateful,consistent hateful
+28,6,1,5.0,1.0,1.0,1.0,5,hateful,hateful
+28,6,2,4.0,3.0,3.0,3.5,2,hateful,hateful
+28,6,3,2.5,2.0,2.0,1.5,5,hateful,hateful
+29,6,3,3.5,3.0,3.5,4.0,4,hateful,hateful
+29,6,1,5.0,3.5,3.0,2.5,5,hateful,hateful
+29,6,2,4.5,3.5,3.0,3.0,2,hateful,hateful
+30,6,2,2.5,2.5,2.0,2.5,1,non-hateful,non-hateful
+30,6,3,4.5,5.0,4.0,3.5,4,non-hateful,non-hateful
+30,6,1,3.0,3.0,1.5,1.5,1,non-hateful,non-hateful
+31,6,2,4.5,5.0,4.0,4.0,4,hateful,hateful
+31,6,3,5.0,3.5,3.0,2.5,5,hateful,hateful
+31,6,1,5.0,4.5,3.0,3.0,2,hateful,hateful
+32,6,1,3.5,3.5,3.0,3.0,4,hateful,hateful
+32,6,2,3.0,3.5,2.5,3.5,4,hateful,hateful
+32,6,3,5.0,3.0,3.5,4.0,2,hateful,hateful
+33,6,3,5.0,4.0,3.5,3.5,5,neither,neither
+33,6,1,5.0,3.0,2.5,3.0,3,neither,neither
+33,6,2,5.0,5.0,3.5,3.5,2,neither,neither
+34,6,1,5.0,2.5,3.5,4.0,1,neither,neither
+34,6,3,2.0,5.0,3.5,4.5,3,neither,neither
+34,6,2,2.5,4.5,1.5,4.5,3,neither,neither
+35,6,1,5.0,1.0,3.0,3.0,5,hateful,hateful
+35,6,2,4.0,4.0,4.0,4.5,2,hateful,hateful
+35,6,3,5.0,4.0,4.0,4.0,4,hateful,hateful
+36,6,1,3.5,3.5,4.5,4.5,4,hateful,hateful
+36,6,3,4.0,5.0,4.0,3.5,4,hateful,hateful
+36,6,2,4.0,4.0,1.0,4.5,2,hateful,hateful
+37,6,1,5.0,3.5,2.5,2.5,4,hateful,hateful
+37,6,2,3.5,2.5,1.0,1.0,1,hateful,hateful
+37,6,3,4.0,4.0,3.5,3.5,4,hateful,hateful
+38,6,2,2.5,3.5,4.0,3.5,4,hateful,hateful
+38,6,3,5.0,3.0,3.0,3.0,3,hateful,hateful
+38,6,1,4.0,3.0,2.5,2.5,5,hateful,hateful
+39,6,1,4.0,5.0,5.0,4.0,4,neither,neither
+39,6,2,3.5,4.0,3.5,3.5,3,neither,neither
+39,6,3,3.0,3.0,3.0,3.0,1,neither,neither
+40,6,1,4.5,5.0,4.5,4.0,5,hateful,consistent hateful
+40,6,2,4.0,2.5,2.5,2.0,5,hateful,consistent hateful
+40,6,3,5.0,4.5,4.5,5.0,5,hateful,consistent hateful
+41,6,2,2.0,2.5,2.0,2.5,2,non-hateful,non-hateful
+41,6,1,2.5,3.5,4.0,3.5,2,non-hateful,non-hateful
+41,6,3,3.0,3.0,3.0,3.0,5,non-hateful,non-hateful
+42,6,1,3.0,3.0,3.5,3.0,4,hateful,consistent hateful
+42,6,3,5.0,5.0,3.5,4.5,5,hateful,consistent hateful
+42,6,2,4.5,4.5,4.0,4.0,5,hateful,consistent hateful
+43,6,1,1.0,1.0,1.0,1.0,5,hateful,consistent hateful
+43,6,3,5.0,3.0,3.0,3.0,5,hateful,consistent hateful
+43,6,2,3.0,2.5,3.5,3.5,4,hateful,consistent hateful
+44,6,2,4.0,3.0,2.5,2.0,1,hateful,hateful
+44,6,3,2.5,4.0,3.0,4.0,4,hateful,hateful
+44,6,1,4.0,2.5,3.0,3.0,4,hateful,hateful
+45,6,1,3.5,3.0,3.5,4.5,3,hateful,hateful
+45,6,2,3.0,3.0,3.0,3.5,5,hateful,hateful
+45,6,3,4.0,4.0,3.0,3.0,4,hateful,hateful
+46,6,1,3.0,2.5,3.0,3.0,5,hateful,hateful
+46,6,3,4.0,3.0,4.0,3.5,4,hateful,hateful
+46,6,2,3.5,3.5,4.5,3.5,3,hateful,hateful
+47,6,2,2.0,4.5,5.0,4.0,2,non-hateful,non-hateful
+47,6,3,4.5,3.5,2.5,3.0,4,non-hateful,non-hateful
+47,6,1,2.5,2.5,2.5,2.5,2,non-hateful,non-hateful
+48,6,1,3.5,3.5,3.5,3.5,4,hateful,hateful
+48,6,2,5.0,3.0,4.0,4.0,5,hateful,hateful
+48,6,3,3.0,3.0,3.0,3.0,1,hateful,hateful
+49,6,1,3.5,3.5,4.5,4.0,3,hateful,hateful
+49,6,2,3.5,4.0,3.5,3.5,4,hateful,hateful
+49,6,3,4.5,3.5,3.5,4.0,5,hateful,hateful
+50,6,2,4.0,4.0,4.5,5.0,3,neither,neither
+50,6,1,3.0,3.0,3.0,3.0,4,neither,neither
+50,6,3,3.5,3.5,3.5,4.5,3,neither,neither
+51,6,1,5.0,4.5,3.5,4.0,3,neither,neither
+51,6,3,2.5,3.0,3.0,2.5,2,neither,neither
+51,6,2,4.5,2.0,3.5,3.0,4,neither,neither
+52,6,1,3.0,3.5,4.5,4.0,3,neither,neither
+52,6,2,4.5,3.0,2.5,3.0,1,neither,neither
+52,6,3,5.0,3.0,3.0,3.5,3,neither,neither
+53,6,1,4.5,5.0,5.0,4.5,4,hateful,hateful
+53,6,3,4.0,3.5,3.0,3.5,2,hateful,hateful
+53,6,2,5.0,4.0,5.0,5.0,5,hateful,hateful
+54,6,1,4.0,3.5,4.0,3.5,2,non-hateful,non-hateful
+54,6,2,5.0,5.0,5.0,5.0,1,non-hateful,non-hateful
+54,6,3,5.0,4.0,3.0,3.0,5,non-hateful,non-hateful
+55,6,3,5.0,4.5,4.0,4.5,5,hateful,consistent hateful
+55,6,2,1.0,5.0,3.0,3.5,5,hateful,consistent hateful
+55,6,1,5.0,3.0,2.5,2.5,4,hateful,consistent hateful
+56,6,1,3.5,3.5,3.5,3.5,2,hateful,hateful
+56,6,2,3.0,3.5,3.5,2.5,4,hateful,hateful
+56,6,3,3.0,2.5,2.5,2.5,5,hateful,hateful
+57,6,1,3.0,3.0,3.5,3.0,5,hateful,hateful
+57,6,2,1.5,3.0,3.5,3.5,3,hateful,hateful
+57,6,3,5.0,4.0,2.5,3.5,5,hateful,hateful
+58,6,1,5.0,3.0,3.5,3.5,4,hateful,consistent hateful
+58,6,2,3.0,4.0,3.0,3.5,5,hateful,consistent hateful
+58,6,3,3.0,3.5,3.5,3.5,4,hateful,consistent hateful
+59,6,2,3.0,3.0,3.0,3.0,5,hateful,consistent hateful
+59,6,3,3.0,3.5,3.0,3.0,4,hateful,consistent hateful
+59,6,1,2.5,3.0,4.0,3.5,4,hateful,consistent hateful
+60,6,1,5.0,2.5,3.0,3.0,1,non-hateful,non-hateful
+60,6,2,3.0,3.5,4.0,3.0,1,non-hateful,non-hateful
+60,6,3,4.0,4.0,3.5,3.5,4,non-hateful,non-hateful
+61,6,1,5.0,3.5,4.5,5.0,4,hateful,consistent hateful
+61,6,3,4.5,2.5,3.0,3.5,4,hateful,consistent hateful
+61,6,2,3.5,4.0,3.5,3.0,4,hateful,consistent hateful
+62,6,1,5.0,3.5,2.5,3.5,3,neither,neither
+62,6,2,2.5,2.0,2.5,2.5,2,neither,neither
+62,6,3,3.0,3.5,3.0,4.0,3,neither,neither
+63,6,2,5.0,1.0,2.5,5.0,1,non-hateful,non-hateful
+63,6,3,4.5,3.5,3.0,3.0,2,non-hateful,non-hateful
+63,6,1,4.0,3.5,3.0,3.0,4,non-hateful,non-hateful
+64,6,1,3.0,3.5,3.0,3.0,4,hateful,hateful
+64,6,3,5.0,4.5,2.5,3.0,5,hateful,hateful
+64,6,2,5.0,3.5,2.0,4.5,1,hateful,hateful
+65,6,1,4.5,4.5,4.0,4.5,5,hateful,consistent hateful
+65,6,2,4.0,4.5,4.0,4.0,5,hateful,consistent hateful
+65,6,3,4.0,3.0,3.0,3.0,5,hateful,consistent hateful
+66,6,1,4.5,4.5,4.5,4.5,5,hateful,hateful
+66,6,3,3.5,3.5,3.5,3.5,3,hateful,hateful
+66,6,2,4.5,4.5,4.5,5.0,5,hateful,hateful
+67,6,2,2.0,2.0,2.0,2.0,1,neither,neither
+67,6,3,3.0,3.5,2.5,2.5,3,neither,neither
+67,6,1,4.5,4.0,3.5,3.5,5,neither,neither
+68,6,1,5.0,5.0,4.0,4.5,4,hateful,hateful
+68,6,2,2.0,3.0,3.0,3.5,4,hateful,hateful
+68,6,3,4.0,3.5,2.0,4.0,1,hateful,hateful
+69,6,1,2.5,3.0,2.5,3.0,5,hateful,hateful
+69,6,2,5.0,4.0,3.5,3.5,5,hateful,hateful
+69,6,3,4.5,3.5,3.5,2.5,1,hateful,hateful
+70,6,2,5.0,3.0,3.0,3.0,1,non-hateful,non-hateful
+70,6,3,4.0,3.5,3.0,3.5,4,non-hateful,non-hateful
+70,6,1,3.5,2.5,3.0,3.5,1,non-hateful,non-hateful
+71,6,2,3.0,3.0,3.0,3.0,5,hateful,consistent hateful
+71,6,1,5.0,4.5,3.0,3.5,5,hateful,consistent hateful
+71,6,3,5.0,2.0,3.0,2.5,5,hateful,consistent hateful
+72,6,2,2.0,2.0,2.5,3.0,4,hateful,consistent hateful
+72,6,3,4.5,2.0,3.0,3.0,5,hateful,consistent hateful
+72,6,1,4.0,3.0,3.0,3.0,5,hateful,consistent hateful
+73,6,1,3.0,3.5,3.0,3.0,3,hateful,hateful
+73,6,3,5.0,5.0,5.0,5.0,4,hateful,hateful
+73,6,2,3.0,2.5,2.5,3.0,4,hateful,hateful
+74,6,2,4.5,4.0,4.0,4.0,3,neither,neither
+74,6,1,5.0,5.0,3.5,3.5,1,neither,neither
+74,6,3,5.0,3.0,2.5,2.0,4,neither,neither
+75,6,1,3.5,3.0,3.0,3.5,5,hateful,consistent hateful
+75,6,3,2.0,2.5,2.5,2.0,4,hateful,consistent hateful
+75,6,2,3.5,4.0,4.5,4.0,5,hateful,consistent hateful
+76,6,1,5.0,3.5,3.0,3.0,5,hateful,consistent hateful
+76,6,3,5.0,3.5,3.0,3.5,5,hateful,consistent hateful
+76,6,2,4.5,2.5,2.5,3.0,5,hateful,consistent hateful
+77,6,1,3.5,4.5,3.5,3.5,4,hateful,hateful
+77,6,2,2.5,2.5,3.0,3.0,5,hateful,hateful
+77,6,3,3.5,3.5,3.0,3.0,1,hateful,hateful
+78,6,1,5.0,3.5,3.0,3.0,5,hateful,consistent hateful
+78,6,2,5.0,4.0,3.5,4.5,5,hateful,consistent hateful
+78,6,3,5.0,4.5,2.5,3.0,5,hateful,consistent hateful
+79,6,1,4.0,4.0,3.5,4.0,1,hateful,hateful
+79,6,2,3.5,1.0,2.5,3.0,5,hateful,hateful
+79,6,3,3.0,3.0,3.0,3.0,5,hateful,hateful
+80,6,1,3.0,3.0,3.0,3.0,5,hateful,hateful
+80,6,2,5.0,4.0,3.0,3.0,5,hateful,hateful
+80,6,3,4.0,3.0,1.0,3.0,3,hateful,hateful
+81,6,1,5.0,2.5,3.0,3.0,1,neither,neither
+81,6,2,4.5,2.0,3.0,3.0,5,neither,neither
+81,6,3,5.0,5.0,5.0,5.0,3,neither,neither
+82,6,1,4.0,1.0,2.5,3.0,5,hateful,hateful
+82,6,2,3.5,3.0,4.5,4.5,5,hateful,hateful
+82,6,3,4.0,1.0,1.0,4.0,2,hateful,hateful
+83,6,1,5.0,3.0,3.0,3.0,5,hateful,hateful
+83,6,3,4.5,3.5,3.0,3.0,5,hateful,hateful
+83,6,2,2.5,2.0,2.0,3.0,2,hateful,hateful
+84,6,1,3.0,3.0,3.0,3.0,5,hateful,consistent hateful
+84,6,2,4.5,4.0,4.0,3.5,5,hateful,consistent hateful
+84,6,3,3.0,2.0,3.0,3.0,5,hateful,consistent hateful
+85,6,2,5.0,4.0,3.0,2.5,5,hateful,consistent hateful
+85,6,1,3.5,2.5,3.0,3.5,5,hateful,consistent hateful
+85,6,3,3.0,3.5,3.5,3.0,5,hateful,consistent hateful
+86,6,1,5.0,5.0,5.0,5.0,5,hateful,consistent hateful
+86,6,2,4.5,5.0,4.5,4.5,4,hateful,consistent hateful
+86,6,3,5.0,3.0,2.5,2.5,4,hateful,consistent hateful
+87,6,1,4.0,3.5,3.5,2.5,4,hateful,consistent hateful
+87,6,3,1.0,3.5,3.0,2.0,5,hateful,consistent hateful
+87,6,2,4.0,5.0,3.5,5.0,5,hateful,consistent hateful
+88,6,3,2.0,1.5,1.5,1.5,4,hateful,consistent hateful
+88,6,1,5.0,2.5,3.0,3.0,5,hateful,consistent hateful
+88,6,2,1.0,1.0,1.0,1.0,5,hateful,consistent hateful
+89,6,3,5.0,4.5,4.0,4.0,5,hateful,consistent hateful
+89,6,1,5.0,3.0,3.0,3.0,5,hateful,consistent hateful
+89,6,2,3.0,4.5,3.0,3.0,5,hateful,consistent hateful
+90,6,1,3.0,1.0,1.0,1.0,5,hateful,hateful
+90,6,2,1.5,3.0,1.5,4.0,3,hateful,hateful
+90,6,3,5.0,4.0,3.5,3.0,5,hateful,hateful
+91,6,1,3.0,3.0,3.0,3.0,5,hateful,consistent hateful
+91,6,2,4.5,4.5,3.5,3.5,5,hateful,consistent hateful
+91,6,3,5.0,3.5,3.0,3.0,4,hateful,consistent hateful
+92,6,1,3.0,3.5,3.5,3.5,3,hateful,hateful
+92,6,3,5.0,4.5,5.0,5.0,5,hateful,hateful
+92,6,2,4.5,4.0,3.0,3.0,5,hateful,hateful
+93,6,1,4.0,4.0,4.0,4.5,5,hateful,consistent hateful
+93,6,2,4.5,3.5,3.0,2.5,5,hateful,consistent hateful
+93,6,3,3.0,3.0,3.0,3.0,5,hateful,consistent hateful
+94,6,1,3.0,2.0,2.5,2.5,3,hateful,hateful
+94,6,2,3.0,2.5,3.0,3.0,4,hateful,hateful
+94,6,3,3.5,4.5,3.5,4.5,4,hateful,hateful
+95,6,1,5.0,4.5,3.0,3.0,5,hateful,consistent hateful
+95,6,2,4.0,1.0,1.5,2.0,4,hateful,consistent hateful
+95,6,3,3.0,3.0,3.0,3.0,5,hateful,consistent hateful
+96,6,2,2.5,3.5,3.5,3.0,4,hateful,consistent hateful
+96,6,3,5.0,5.0,3.5,3.5,4,hateful,consistent hateful
+96,6,1,5.0,4.5,3.0,4.5,5,hateful,consistent hateful
+97,6,1,4.0,3.5,3.0,3.0,5,hateful,consistent hateful
+97,6,2,3.0,3.5,3.0,4.0,4,hateful,consistent hateful
+97,6,3,4.5,4.0,4.0,4.0,4,hateful,consistent hateful
+98,6,1,4.5,4.5,4.5,4.5,2,hateful,hateful
+98,6,2,4.5,3.5,1.5,2.0,5,hateful,hateful
+98,6,3,4.0,4.0,4.0,4.0,4,hateful,hateful
+99,6,1,5.0,3.0,4.0,4.0,4,hateful,consistent hateful
+99,6,2,4.0,3.0,3.0,4.0,5,hateful,consistent hateful
+99,6,3,4.5,4.0,3.5,3.5,5,hateful,consistent hateful
+100,6,1,3.0,2.5,3.5,2.5,5,hateful,consistent hateful
+100,6,3,4.0,3.5,4.5,3.0,5,hateful,consistent hateful
+100,6,2,3.0,3.0,3.0,3.0,5,hateful,consistent hateful

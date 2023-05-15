@@ -1,0 +1,3 @@
+,Transfer Type,hateful-WHY,non-hateful-WHY,both-WHY,hateful-COT,non-hateful-COT,both-COT,both-COT_rm_unscroll,CONTEXT
+Misclassified tweets,non-hateful as hateful,14,7,11,14,6,6,1,7
+Misclassified tweets,hateful as non-hateful,5,16,8,4,13,7,6,12
