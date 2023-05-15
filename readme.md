@@ -16,13 +16,16 @@ Code implementation for the paper "Evaluating GPT-3 Generated Explanations for H
 
 
 
-## Annotation evaluation results
-### Quality table
-![alt text](image/quality.png)
-### Hatefulness table
-![alt text](image/hatefulness.png)
-### Misclassification table
-![alt text](image/misclassification.png)
+## Evaluation Results Based on Human Annotation
+
+### Explanations Quality Table
+![Quality Table](image/quality.png)
+
+### Tweets Hatefulness Table
+![Hatefulness Table](image/hatefulness.png)
+
+### Tweets Misclassification Table
+![Misclassification Table](image/misclassification.png)
 
 
 To cite:
