@@ -30,6 +30,7 @@ The labeling process for each tweet entails initially classifying each annotatio
 
 ![Misclassification Table](image/misclassification.png)
 
+## Acknowledgements
 
 To cite:
 ```
