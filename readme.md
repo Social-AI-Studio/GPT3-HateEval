@@ -36,7 +36,7 @@ To cite:
 ```
 @inproceedings{gpt3hateeval2023,
     title={Evaluating GPT-3 Generated Explanations for Hateful Content Moderation},
-    author={Wang, Han and Hee, Ming Shan and Awal, Md Rabiul and Lee, Roy Ka-Wei and Choo, Kenny Tsu Wei},
+    author={Wang, Han and Hee, Ming Shan and Awal, Md Rabiul and Choo, Kenny Tsu Wei and Lee, Roy Ka-Wei},
     year={2023},
     booktitle = {In Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI)},
 }
